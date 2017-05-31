@@ -1,0 +1,19 @@
+<a ui-sref="Home" class="button icon-left ion-chevron-left button-clear button-dark">Back</a>
+  <div class="item item-avatar">
+    <img src="img/mmm.jpg">
+    <h2>Hittory</h2>
+    <p>jiranan</p>
+  </div>
+
+  <div class="item item-body">
+    <img class="img" src="img/22.jpg" width="320" height="190">
+    <p>
+    Hello 
+	I am jiranan Seephumma.
+
+    </p>
+    <p>
+      <a href="#" class="subdued">540,586 Like</a>
+      <a href="#" class="subdued">1800 Comments</a>
+    </p>
+  </div>
